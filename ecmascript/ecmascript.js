@@ -31,10 +31,11 @@ function espera3sPromise() {
     });
 }
 //espera3sPromise().then(dado => console.log(dado))
+/*
 fetch('https://swapi.dev/api/people/1/')
     .then(res => res.json())
     .then(personagem => personagem.films)
     .then(films => fetch(films[0]))
     .then(respFilm => respFilm.json())
-    .then(filme => console.log(filme.title));
+    .then(filme => console.log(filme.title))*/
 //# sourceMappingURL=ecmascript.js.map
