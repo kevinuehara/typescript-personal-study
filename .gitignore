@@ -1,1 +1,7 @@
 /node_modules
+/integracao-gulp/node_modules
+/integracao-gulp/dist
+/integracao-webpack/node_modules
+/integracao-webpack/dist
+/integracao-react/node_modules
+/integracao-vue/node_modules
